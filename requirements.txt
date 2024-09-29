@@ -1,5 +1,2 @@
-joblib
-sklearn
-scikit-learn
-seaborn
-matplotlib
+joblib==1.4.2
+streamlit==1.35.0
